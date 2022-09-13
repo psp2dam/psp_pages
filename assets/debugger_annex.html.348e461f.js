@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-737de6d4","path":"/en/unit3/debugger_annex.html","title":"3.5 Annex I - Debugging multithread apps in Netbeans","lang":"en-US","frontmatter":{"title":"3.5 Annex I - Debugging multithread apps in Netbeans"},"excerpt":"","headers":[]}');export{e as data};

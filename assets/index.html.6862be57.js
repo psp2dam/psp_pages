@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a8728f6c","path":"/es/unit1/","title":"1 Introducci\xF3n","lang":"es-ES","frontmatter":{"title":"1 Introducci\xF3n"},"excerpt":"","headers":[{"level":2,"title":"Objetivos","slug":"objetivos","link":"#objetivos","children":[]}]}');export{t as data};
