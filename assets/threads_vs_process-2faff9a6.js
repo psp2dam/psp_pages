@@ -1,0 +1,1 @@
+const s="/psp_pages/assets/proceso_memoria-9033b881.png",p="/psp_pages/assets/concurrencia_vs_paralelismo-84571e5b.jpg",a="/psp_pages/assets/sequential_flowchart-a328f103.png",_="/psp_pages/assets/concurrent_flowchart-b7db1a72.png",e="/psp_pages/assets/threads_vs_process-22c153e6.jpg";export{s as _,p as a,a as b,_ as c,e as d};
